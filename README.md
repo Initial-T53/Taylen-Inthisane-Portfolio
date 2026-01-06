@@ -1,4 +1,4 @@
-# Taylen_Portfolio
+# Taylen-Inthisane-Portfolio
 Data science portfolio
 
 # [Project 1: Diabetes Risk Prediction & Early Detection: Project Overview](https://github.com/Initial-T53/Diabetes-Risk-Project)
