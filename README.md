@@ -16,6 +16,6 @@ Data science portfolio
 * Recommended risk-wristbands and medication recommender system.
 
 
-![](/Images/Length%20of%20stay%20feature%20importance%20Random%20forest.png)
+![](/Images/LOS_RF.png)
 
-![](/Images/Random%20Forest%20Feature%20importance%20Mortality.png)
+![](Images/Mort_RF.png)
