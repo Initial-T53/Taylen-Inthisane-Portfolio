@@ -7,6 +7,8 @@ Data science portfolio
 * Used SHAP values to interpret predictions: HbA1c, fasting glucose and postprandial glucose were top predictors.
 * Created a risk stratification tool with low/medium/high threasholds to guide preventive care.
 
+![](https://github.com/Initial-T53/Taylen_Portfolio/blob/main/Images/Diabetes%20SHAP.png)
+
 # [Project 2: ICU Patient Outcome Analysis : Project overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
 * Analyzed and worked with ICU electronic medical records to identify predictors of mortality and legnth of stay.
 * Used Ordinary least squares, lasso regression, ridge regression and random forest model. GridsearchCV was used to hypertune lasso and ridge regression
@@ -14,3 +16,6 @@ Data science portfolio
 * Recommended risk-wristbands and medication recommender system.
 
 
+![](https://github.com/Initial-T53/Taylen_Portfolio/blob/main/Images/Length%20of%20stay%20feature%20importance%20Random%20forest.png)
+
+![](https://github.com/Initial-T53/Taylen_Portfolio/blob/main/Images/Random%20Forest%20Feature%20importance%20Mortality.png)
