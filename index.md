@@ -1,7 +1,5 @@
----
-layout: default
-title: Taylen Inthisane Portfolio
----
+# Taylen-Inthisane-Portfolio
+Data science portfolio
 
 # [Project 1: Diabetes Risk Prediction & Early Detection: Project Overview](https://github.com/Initial-T53/Diabetes-Risk-Project)
 * Built a machine Learning model to predict diabetes diagnosis using demographic, lifestyle and metabolic indicators.
@@ -9,7 +7,7 @@ title: Taylen Inthisane Portfolio
 * Used SHAP values to interpret predictions: HbA1c, fasting glucose and postprandial glucose were top predictors.
 * Created a risk stratification tool with low/medium/high threasholds to guide preventive care.
 
-![](/Images/Diabetes%20SHAP.png)
+![](/Images/Diabetes_SHAP.png)
 
 # [Project 2: ICU Patient Outcome Analysis : Project overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
 * Analyzed and worked with ICU electronic medical records to identify predictors of mortality and legnth of stay.
@@ -18,6 +16,6 @@ title: Taylen Inthisane Portfolio
 * Recommended risk-wristbands and medication recommender system.
 
 
-![](/Images/Length%20of%20stay%20feature%20importance%20Random%20forest.png)
+![](/Images/LOS_RF.png)
 
-![](/Images/Random%20Forest%20Feature%20importance%20Mortality.png)
+![](Images/MORT_RF.png)
