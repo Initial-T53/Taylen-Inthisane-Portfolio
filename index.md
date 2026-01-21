@@ -33,4 +33,4 @@ Data science portfolio
 
 
 
-![](Images/Customer HDBSCAN.png)
+![](Images/Customer_HDBSCAN.png)
