@@ -14,7 +14,7 @@ Data science portfolio
 
 ![](Images/Diabetes_SHAP.png)
 
-# [Project 2: ICU Patient Outcome Analysis : Project overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
+# [Project 2: ICU Patient Outcome Analysis : Project Overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
 * Analyzed and worked with ICU electronic medical records to identify predictors of mortality and legnth of stay.
 * Used Ordinary least squares, lasso regression, ridge regression and random forest model. GridsearchCV was used to hypertune lasso and ridge regression
 * Identified features that are strong associated with patients length of stay and mortality risk
@@ -25,7 +25,7 @@ Data science portfolio
 
 ![](Images/MORT_RF.png)
 
-# [Project 3: Amazon Sales Data Clustering : Project overview](https://github.com/Initial-T53/Amazon-Sales-Data)
+# [Project 3: Amazon Sales Data Clustering : Project Overview](https://github.com/Initial-T53/Amazon-Sales-Data)
 * Performed customer-level feature engineering on a synthetic Amazon sales dataset, correcting inconsistent purchase amounts, product categories, and tax to enable reliable behavior analysis.
 * Built two clustering pipelines: behavioral segmentation using KMeans and HDBSCAN, and attempted seasonality-aware segmentation using monthly purchasing vectors.
 * Identified distinct customer personas based on spending patterns, order frequency, discount sensistivitym and basket behavior, including handling of HDBSCAN's noise cluster for unclusted customers.
