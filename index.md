@@ -24,3 +24,13 @@ Data science portfolio
 ![](Images/LOS_RF.png)
 
 ![](Images/MORT_RF.png)
+
+# [Project 3: Amazon Sales Data Clustering : Project overview](https://github.com/Initial-T53/Amazon-Sales-Data)
+* Performed customer-level feature engineering on a synthetic Amazon sales dataset, correcting inconsistent purchase amounts, product categories, and tax to enable reliable behavior analysis.
+* Built two clustering pipelines: behavioral segmentation using KMeans and HDBSCAN, and attempted seasonality-aware segmentation using monthly purchasing vectors.
+* Identified distinct customer personas based on spending patterns, order frequency, discount sensistivitym and basket behavior, including handling of HDBSCAN's noise cluster for unclusted customers.
+* Delivered marketing-focused recommendations for each segment, highlighting opportunities for targeted promotions, churn-risk, identification, loyalty improvements and personalized customers experiences.
+
+
+
+![](Images/Customer HDBSCAN.png)
