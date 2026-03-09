@@ -9,7 +9,7 @@ Data science portfolio
 
 ![](Images/Diabetes_SHAP.png)
 
-# [Project 2: ICU Patient Outcome Analysis : Project overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
+# [Project 2: ICU Patient Outcome Analysis : Project Overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
 * Analyzed and worked with ICU electronic medical records to identify predictors of mortality and legnth of stay.
 * Used Ordinary least squares, lasso regression, ridge regression and random forest model. GridsearchCV was used to hypertune lasso and ridge regression
 * Identified features that are strong associated with patients length of stay and mortality risk
@@ -29,3 +29,13 @@ Data science portfolio
 
 
 ![](Images/Customer_HDBSCAN.png)
+
+# [Project 4: Credit Application Dashboard: Project Overview](https://github.com/Initial-T53/Credit-Analysis)
+* Built a multi-page analytical dashboard covering Executive Summary, Demographics, Credit History, and Deep Dive to support lending decisions.
+* Analyzed Demographics and Socioeconomic factors influencing credit outcomes, including income bands, employment stability, family structure, and housing type.
+* Identified high-risk and low-risk applicant segments using behavioral patterns, stability indicators, and credit history trajectories.
+* Delivered decision-support insights for lending teams, highlighting risk concentrations, applicant stability, and factors most predictive of default or late payment.
+
+* [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTljNmY4ODUtM2IyZi00ZTA4LWJhNTctZmUzMjBmODBiNDAxIiwidCI6IjllZjlmNDg5LWUwYTAtNGVlYi04N2NjLTNhNTI2MTEyZmQwZCIsImMiOjF9)
+
+![](Images/Executive_Summary.png)
