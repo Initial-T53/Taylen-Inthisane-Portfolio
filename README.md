@@ -39,3 +39,12 @@ Data science portfolio
 * [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTljNmY4ODUtM2IyZi00ZTA4LWJhNTctZmUzMjBmODBiNDAxIiwidCI6IjllZjlmNDg5LWUwYTAtNGVlYi04N2NjLTNhNTI2MTEyZmQwZCIsImMiOjF9)
 
 ![](Images/Executive_Summary.png)
+
+
+# [Project 5: NFL Interior Defensive Linemen Classification:](https://github.com/Initial-T53/NFL-IDL-Measurables/).
+* Built a classification model using 2019-2025 NFL IDL combine production data to identify traits most associated with becoming an NFL Plus Starter (top 25% PFF Grade).
+* Conducted SHAP feature importance analysis, finding that college production score was the strongest predictor, followed by weight, speed metrics (40-yard dash, 10-yard split) and upper-body strength.
+* Trained and tuned a RandomForest Classifier to learn historical patterns and applied the model to the 2026 IDL draft class.
+* Model projected Zane Durant (Penn State) and Chris McClellan (Missouri) as future Plus Starters, balancing both athleticism and production profiles.
+
+![](Images/NFL_IDL_SHAP.png)
